@@ -1,0 +1,7 @@
+### Scripts
+En esta carpeta se almacenan los scripts de Python utilizados para:
+* La preparación de los datos históricos de órdenes de trabajos de actividades de poda - 01seriedetiempoDataPrep
+* Obtener la serie de tiempo a partir del registro histório de órdenes de trabajo, realizar el análisis de la serie de tiempo y entrenar el modelo ARIMA y AUTOARIMA - 02seriesdetiempo_poda
+* Entrenar el modelo ARIMAX con variables exógenas (precipitaciones, dummy para disponibilidad del sistema y trimestre del año) - 03seriesdetiempo_poda_lluvia
+* Entrenar los modelos de Random Forest y XGBoost- 04SeriesdetiempoForecast_poda
+* Entrenar los modelos de Regresión Lineal y Red Neuronal - 05seriesdetiempoML_poda
